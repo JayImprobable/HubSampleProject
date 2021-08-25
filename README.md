@@ -1,4 +1,4 @@
-# Multiplayer Hub Samples Project
+# Development Basics Companion Project
 
 ## Requirements
 
